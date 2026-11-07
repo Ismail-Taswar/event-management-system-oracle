@@ -1,7 +1,7 @@
 # Event Management System (Oracle Forms, Reports & APEX)
 
-An event management system built as a university course project (team code:
-DDD-56). Handles clients, venues, services, bookings, billing, payments,
+An event management system built as a university course project.
+Handles clients, venues, services, bookings, billing, payments,
 expenses, employees, and role-based users — with printable invoices and
 profit/loss reports.
 
@@ -36,7 +36,7 @@ BI_Publisher/     BI Publisher report definitions
 HTM_CSS_REPORT/   HTML/CSS-styled reports
 Jasper Soft Reports/  JasperSoft report sources
 Documents/        ERD & DFD, table scripts, report server batch files
-Databackup/       Oracle DB export dump (EMS_DDD56, 19-MAR-2024)
+Databackup/       Oracle DB export dumps (2024)
 Menu/             Forms menus (.mmb/.mmx)
 Object_Library/   shared Forms object library (.olb)
 Images/           UI assets (logos, backgrounds, user images)
