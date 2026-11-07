@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+<ROWSET>
+   <ROW>
+      <EVENT_M_NAME>Social Events</EVENT_M_NAME>
+      <EVENT_NAME>Annual Sports</EVENT_NAME>
+      <EVENT_D_DESCRIPTION>Annual Sports is A Social Events.</EVENT_D_DESCRIPTION>
+      <ACTION_USER>ADMIN</ACTION_USER>
+      <ACTION_DATE_TIME>02/08/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <EVENT_M_NAME>Social Events</EVENT_M_NAME>
+      <EVENT_NAME>Birthday parties</EVENT_NAME>
+      <EVENT_D_DESCRIPTION>Birthday parties are joyful celebrations held to honor an individual's</EVENT_D_DESCRIPTION>
+      <ACTION_USER>ADMIN</ACTION_USER>
+      <ACTION_DATE_TIME>02/08/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <EVENT_M_NAME>Social Events</EVENT_M_NAME>
+      <EVENT_NAME>Anniversaries</EVENT_NAME>
+      <EVENT_D_DESCRIPTION>Anniversaries is a Social Events.</EVENT_D_DESCRIPTION>
+      <ACTION_USER>ADMIN</ACTION_USER>
+      <ACTION_DATE_TIME>02/08/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <EVENT_M_NAME>Social Events</EVENT_M_NAME>
+      <EVENT_NAME>Reunions</EVENT_NAME>
+      <EVENT_D_DESCRIPTION>Anniversary reunions bring together individuals or groups to commemorate</EVENT_D_DESCRIPTION>
+      <ACTION_USER>ADMIN</ACTION_USER>
+      <ACTION_DATE_TIME>02/08/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <EVENT_M_NAME>Social Events</EVENT_M_NAME>
+      <EVENT_NAME>Graduation ceremonies</EVENT_NAME>
+      <EVENT_D_DESCRIPTION>Graduation ceremonies are a time-honored tradition filled with pride</EVENT_D_DESCRIPTION>
+      <ACTION_USER>ADMIN</ACTION_USER>
+      <ACTION_DATE_TIME>02/08/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <EVENT_M_NAME>Social Events</EVENT_M_NAME>
+      <EVENT_NAME>Holiday parties</EVENT_NAME>
+      <EVENT_D_DESCRIPTION>Holiday parties are festive gatherings held during special occasions.</EVENT_D_DESCRIPTION>
+      <ACTION_USER>ADMIN</ACTION_USER>
+      <ACTION_DATE_TIME>02/08/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <EVENT_M_NAME>Corporate Event</EVENT_M_NAME>
+      <EVENT_NAME>Conference</EVENT_NAME>
+      <EVENT_D_DESCRIPTION>Conference Is a Corporate Event.</EVENT_D_DESCRIPTION>
+      <ACTION_USER>ADMIN</ACTION_USER>
+      <ACTION_DATE_TIME>02/05/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <EVENT_M_NAME>Corporate Event</EVENT_M_NAME>
+      <EVENT_NAME>Meeting</EVENT_NAME>
+      <EVENT_D_DESCRIPTION>This is dummy description.</EVENT_D_DESCRIPTION>
+      <ACTION_USER></ACTION_USER>
+      <ACTION_DATE_TIME>02/05/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <EVENT_M_NAME>Corporate Event</EVENT_M_NAME>
+      <EVENT_NAME>Seminar</EVENT_NAME>
+      <EVENT_D_DESCRIPTION>This is dummy description.</EVENT_D_DESCRIPTION>
+      <ACTION_USER></ACTION_USER>
+      <ACTION_DATE_TIME>02/05/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <EVENT_M_NAME>Family Event</EVENT_M_NAME>
+      <EVENT_NAME>Marrige Ceremony</EVENT_NAME>
+      <EVENT_D_DESCRIPTION>This is dummy Description.</EVENT_D_DESCRIPTION>
+      <ACTION_USER>admin</ACTION_USER>
+      <ACTION_DATE_TIME>02/05/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <EVENT_M_NAME>Family Event</EVENT_M_NAME>
+      <EVENT_NAME>Engagement</EVENT_NAME>
+      <EVENT_D_DESCRIPTION>This is dummy Description.</EVENT_D_DESCRIPTION>
+      <ACTION_USER>admin</ACTION_USER>
+      <ACTION_DATE_TIME>02/05/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <EVENT_M_NAME>Family Event</EVENT_M_NAME>
+      <EVENT_NAME>Marrige Anniversiry</EVENT_NAME>
+      <EVENT_D_DESCRIPTION>This is dummy Description.</EVENT_D_DESCRIPTION>
+      <ACTION_USER>admin</ACTION_USER>
+      <ACTION_DATE_TIME>02/05/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <EVENT_M_NAME>Product Launch</EVENT_M_NAME>
+      <EVENT_NAME>product premiere</EVENT_NAME>
+      <EVENT_D_DESCRIPTION>Introduce your latest innovation or creation with flair and excitement at a product premiere event.</EVENT_D_DESCRIPTION>
+      <ACTION_USER>ADMIN</ACTION_USER>
+      <ACTION_DATE_TIME>03/18/2024</ACTION_DATE_TIME>
+   </ROW>
+</ROWSET>
+</DOCUMENT>

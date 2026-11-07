@@ -1,0 +1,4 @@
+select     * 
+from       biller_details_view 
+where      TO_CHAR(EVENT_END_DATE, 'MM/DD/RRRR') < TO_CHAR(SYSDATE, 'MM/DD/RRRR')  
+and        client_name like nvl(:P236_CLIENT_NAME, '%')  

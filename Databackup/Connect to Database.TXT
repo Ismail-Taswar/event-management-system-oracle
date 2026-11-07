@@ -1,0 +1,27 @@
+conn ems_ddd56/123@dbddd56
+
+
+
+
+sys as sysdba
+
+select name from v$database ;
+
+drop user ems_ddd56 cascade ;
+
+grant dba to ems_ddd56 identified by 123 ;
+
+go to imp.exe
+
+C:\app\Administrator\product\12.2.0\dbhome_1\bin\imp.exe    open run as administrator
+
+ ems_ddd56/123@dbddd56
+
+
+D:\Project_R_DTCM_52_M\Event_Management_System\DataBackup\EMS_DDD52_Databackup_28_01_2023.dmp
+
+Import entire export file (yes/no): no > y
+
+
+
+

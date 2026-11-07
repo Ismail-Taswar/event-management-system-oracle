@@ -1,0 +1,19 @@
+select      * 
+from        biller_details_View
+WHERE       TO_CHAR(Event_start_date, 'MM/DD/RRRR') > TO_CHAR(SYSDATE, 'MM/DD/RRRR')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

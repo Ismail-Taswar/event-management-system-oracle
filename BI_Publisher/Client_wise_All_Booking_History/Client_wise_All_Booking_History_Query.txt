@@ -1,0 +1,1 @@
+select * from CLIENT_INFO_VIEW ;

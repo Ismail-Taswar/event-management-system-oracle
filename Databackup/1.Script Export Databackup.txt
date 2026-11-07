@@ -1,0 +1,5 @@
+SELECT 'ALTER TABLE '||table_name||' ALLOCATE EXTENT;' 
+FROM   user_tables 
+WHERE  segment_created = 'NO';
+
+

@@ -1,0 +1,4 @@
+f?p=&APP_ID.:0:&SESSION.:PRINT_REPORT=Client_wise_All_Booking_History
+
+
+{JavaScript:window.open('f?p=&APP_ID.:0:&SESSION.:PRINT_REPORT=Client_wise_All_Booking_History','_blank');}

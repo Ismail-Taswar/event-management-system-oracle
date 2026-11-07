@@ -1,0 +1,4 @@
+select * 
+from       biller_details_view 
+where      TO_CHAR(Event_start_date, 'MM/DD/RRRR') <= TO_CHAR(SYSDATE, 'MM/DD/RRRR')
+and        TO_CHAR(EVENT_END_DATE, 'MM/DD/RRRR') >= TO_CHAR(SYSDATE, 'MM/DD/RRRR')

@@ -1,0 +1,30 @@
+http://lab1com5:8889/forms/frmservlet?Config=EMS1-DDD56
+
+conn sys as sysdba 
+
+grant dba to ems_ddd56 
+identified by 123 ;
+
+
+[ems_ddd56_Naziur]
+userid=ems_ddd56/123@dbddd56
+form=D:\Project_R_DTCM_56_M\Event_Management_System\Forms\LOGIN.fmx
+width=100%
+height=100%
+
+
+
+
+[EMS1-DDD56]
+userid=ems1_ddd56/123@dbddd56
+form=D:\Project_R_DTCM_52_M\Event_Management_System\Forms\LOGINPAGE.fmx
+width=100%
+height=100%
+
+
+
+[ems_ddd56_hasnain]
+userid=ems_ddd56/123@dbddd56
+form=D:\Project_R_DTCM_52_M\Event_Management_System\Forms\LOGINPAGE.fmx
+width=100%
+height=100%

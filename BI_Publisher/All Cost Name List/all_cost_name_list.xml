@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+<ROWSET>
+   <ROW>
+      <COST_ID>1</COST_ID>
+      <COST_NAME>Audio Visual Equipment</COST_NAME>
+      <COST_DESCRIPTION>Cost Name Related to Audio Visual Equipment.</COST_DESCRIPTION>
+      <ACTION_USER>admin</ACTION_USER>
+      <ACTION_DATE_TIME>02/23/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <COST_ID>2</COST_ID>
+      <COST_NAME>Lighting Cost</COST_NAME>
+      <COST_DESCRIPTION>Cost Name Related to Lighting Cost.</COST_DESCRIPTION>
+      <ACTION_USER></ACTION_USER>
+      <ACTION_DATE_TIME>02/23/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <COST_ID>3</COST_ID>
+      <COST_NAME>Stage Decoration</COST_NAME>
+      <COST_DESCRIPTION>Cost Name Related to Stage Decoration.</COST_DESCRIPTION>
+      <ACTION_USER></ACTION_USER>
+      <ACTION_DATE_TIME>02/23/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <COST_ID>4</COST_ID>
+      <COST_NAME>Stage Equipment Rent</COST_NAME>
+      <COST_DESCRIPTION>Cost Name Related to Stage Equipment Rent.</COST_DESCRIPTION>
+      <ACTION_USER></ACTION_USER>
+      <ACTION_DATE_TIME>02/23/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <COST_ID>5</COST_ID>
+      <COST_NAME>Tables &amp; Chairs Rent</COST_NAME>
+      <COST_DESCRIPTION>Cost Name Related to Tables &amp; Chairs Rent.</COST_DESCRIPTION>
+      <ACTION_USER></ACTION_USER>
+      <ACTION_DATE_TIME>02/23/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <COST_ID>6</COST_ID>
+      <COST_NAME>Decoration and Theming Cost</COST_NAME>
+      <COST_DESCRIPTION>Cost Name Related to Decoration and Theming Cost.</COST_DESCRIPTION>
+      <ACTION_USER></ACTION_USER>
+      <ACTION_DATE_TIME>02/23/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <COST_ID>7</COST_ID>
+      <COST_NAME>Hiring Performets</COST_NAME>
+      <COST_DESCRIPTION>Cost Name Related to Hiring Performets.</COST_DESCRIPTION>
+      <ACTION_USER></ACTION_USER>
+      <ACTION_DATE_TIME>02/23/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <COST_ID>8</COST_ID>
+      <COST_NAME>Hiring Host Cost</COST_NAME>
+      <COST_DESCRIPTION>Cost Name Related to Hiring Host Cost.</COST_DESCRIPTION>
+      <ACTION_USER></ACTION_USER>
+      <ACTION_DATE_TIME>02/23/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <COST_ID>9</COST_ID>
+      <COST_NAME>Beverage Cost</COST_NAME>
+      <COST_DESCRIPTION>Cost Name Related to Beverage Cost.</COST_DESCRIPTION>
+      <ACTION_USER></ACTION_USER>
+      <ACTION_DATE_TIME>02/23/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <COST_ID>10</COST_ID>
+      <COST_NAME>Food Cost</COST_NAME>
+      <COST_DESCRIPTION>Cost Name Related to Food Cost.</COST_DESCRIPTION>
+      <ACTION_USER></ACTION_USER>
+      <ACTION_DATE_TIME>02/23/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <COST_ID>11</COST_ID>
+      <COST_NAME>Advertising Cost</COST_NAME>
+      <COST_DESCRIPTION>Cost Name Related to Advertising Cost.</COST_DESCRIPTION>
+      <ACTION_USER></ACTION_USER>
+      <ACTION_DATE_TIME>02/23/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <COST_ID>12</COST_ID>
+      <COST_NAME>Advertising Materials Cost</COST_NAME>
+      <COST_DESCRIPTION>Cost Name Related to Advertising Materials Cost.</COST_DESCRIPTION>
+      <ACTION_USER></ACTION_USER>
+      <ACTION_DATE_TIME>02/23/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <COST_ID>13</COST_ID>
+      <COST_NAME>Digital Materials Cost</COST_NAME>
+      <COST_DESCRIPTION>Cost Name Related to Digital Materials Cost.</COST_DESCRIPTION>
+      <ACTION_USER>admin</ACTION_USER>
+      <ACTION_DATE_TIME>02/23/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <COST_ID>14</COST_ID>
+      <COST_NAME>Others Cost</COST_NAME>
+      <COST_DESCRIPTION>Additional Expenses.</COST_DESCRIPTION>
+      <ACTION_USER></ACTION_USER>
+      <ACTION_DATE_TIME>02/23/2024</ACTION_DATE_TIME>
+   </ROW>
+   <ROW>
+      <COST_ID>15</COST_ID>
+      <COST_NAME>Security Guard</COST_NAME>
+      <COST_DESCRIPTION>Additonal Expense for security Guard.</COST_DESCRIPTION>
+      <ACTION_USER>admin</ACTION_USER>
+      <ACTION_DATE_TIME>02/28/2024</ACTION_DATE_TIME>
+   </ROW>
+</ROWSET>
+</DOCUMENT>

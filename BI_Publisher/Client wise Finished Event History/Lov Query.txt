@@ -1,0 +1,7 @@
+select    distinct Client_name ||' - ('|| (select     count(bm.booking_m_id)   
+                                    from       booking_m bm, client cl 
+                                    where      bm.client_id = cl.client_id 
+                                    and        TO_CHAR(EVENT_END_DATE, 'MM/DD/RRRR') < TO_CHAR(SYSDATE, 'MM/DD/RRRR')
+                                    and        client_name = bdv.client_name ) ||')' Client_total, client_name 
+from       biller_details_view bdv
+where      TO_CHAR(EVENT_END_DATE, 'MM/DD/RRRR') < TO_CHAR(SYSDATE, 'MM/DD/RRRR')   

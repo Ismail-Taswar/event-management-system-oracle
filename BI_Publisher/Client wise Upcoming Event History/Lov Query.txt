@@ -1,0 +1,12 @@
+select   distinct client_name || ' -( '|| (select    count(booking_m_id)
+                                            from      booking_m bm, client cl 
+                                            where     bm.client_id = cl.client_id 
+                                            and       client_name  =  bkc.client_name 
+                                            and       TO_CHAR(Event_start_date, 'MM/DD/RRRR') > TO_CHAR(SYSDATE, 'MM/DD/RRRR')) ||' )'Total_Booking, Client_name
+from     BILLER_DETAILS_VIEW bkc
+where    booking_m_id  in  (select    booking_m_id  Id
+                            from      booking_m 
+                            WHERE       TO_CHAR(Event_start_date, 'MM/DD/RRRR') > TO_CHAR(SYSDATE, 'MM/DD/RRRR') )
+
+
+

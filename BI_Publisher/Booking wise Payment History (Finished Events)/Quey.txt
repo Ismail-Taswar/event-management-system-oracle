@@ -1,0 +1,3 @@
+select  * 
+from    BILLER_DETAILS_VIEW 
+where      TO_CHAR(EVENT_END_DATE, 'MM/DD/RRRR') < TO_CHAR(SYSDATE, 'MM/DD/RRRR') 

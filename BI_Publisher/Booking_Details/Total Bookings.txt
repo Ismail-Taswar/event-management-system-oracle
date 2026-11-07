@@ -1,0 +1,2 @@
+select     * 
+from       biller_details_view  ; 

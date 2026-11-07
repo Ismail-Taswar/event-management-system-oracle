@@ -1,0 +1,1 @@
+exp ems_ddd56/123@dbddd56 file=D:\Project_R_DTCM_56_M\Event_Management_System\Databackup\Event_Management_System_19_may_2024.dmp

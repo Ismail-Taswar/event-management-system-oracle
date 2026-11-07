@@ -1,0 +1,5 @@
+select * 
+from     BILLER_DETAILS_VIEW
+where    booking_m_id  in  (select    booking_m_id  Id
+from      booking_m 
+WHERE       TO_CHAR(Event_start_date, 'MM/DD/RRRR') > TO_CHAR(SYSDATE, 'MM/DD/RRRR') )

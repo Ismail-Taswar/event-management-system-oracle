@@ -1,0 +1,3 @@
+f?p=&APP_ID.:0:&SESSION.:PRINT_REPORT=Booking_wise_Payment_History_FE
+
+{JavaScript:window.open('f?p=&APP_ID.:0:&SESSION.:PRINT_REPORT=Booking_wise_Payment_History_FE','_Blank');}
