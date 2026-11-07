@@ -44,7 +44,7 @@ Images/           UI assets (logos, backgrounds, user images)
 
 ## How to Run
 
-1. Create a schema in Oracle DB and run `Apex/Table_Script_For_Appex.txt` and
+1. Create a schema in Oracle DB and run `Apex/Table_Script_For_Appex.sql` and
    the scripts under `Documents/`.
 2. Open `.fmb` files in Oracle Forms Builder, connect to the schema, compile,
    and run through the Forms runtime.
